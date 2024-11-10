@@ -1,3 +1,5 @@
+//https://learn.microsoft.com/en-us/windows/win32/procthread/fibers
+
 #include <Windows.h>
 #include <stdio.h>
 
